@@ -1,3 +1,3 @@
 #!/bin/sh
-cd /var/www/Homologacion
+bash /var/www/Homologacion
 git pull origin master
